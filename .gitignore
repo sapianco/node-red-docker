@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+**/*Secrets.yaml
 /node-red-docker.iml
 /.idea/
+docker-custom/.env
